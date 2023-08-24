@@ -1,0 +1,22 @@
+1) Codigo comentado las principales funciones 
+2) Codigo limpio
+3) se realizo herencia , encapsulamiento , y los principio de solid 
+4) Manejo de clases que cumple una funcion
+
+
+
+
+
+
+Justificaciones de tecnologias 
+SQL server : base de datos 
+Entity frameworksqlserver, linq: para el manejo de la base de datos 
+Json: para envio de informacion
+dependencia inyecion: para inyectar un objetos dependiendo de la clase , objeto contrurtor 
+Patron de diseño : N layer, inyeccion de dependencias 
+Serilog para el manejo de logs
+JWTBearer , token todo el tema de autenticacion
+
+
+
+
