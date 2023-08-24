@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionLogistica.Abstraction\GestionLogistica.Abstraction.csproj" />
+    <ProjectReference Include="..\GestionLogistica.DataAccess\GestionLogistica.DataAccess.csproj" />
+    <ProjectReference Include="..\GestionLogistica.Entity\GestionLogistica.Entity.csproj" />
+    <ProjectReference Include="..\GestionLogistica.Services\GestionLogistica.Services.csproj" />
+  </ItemGroup>
+
+</Project>

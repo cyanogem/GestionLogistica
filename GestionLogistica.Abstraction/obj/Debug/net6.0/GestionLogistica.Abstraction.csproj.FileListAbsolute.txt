@@ -1,0 +1,11 @@
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\bin\Debug\net6.0\GestionLogistica.Abstraction.deps.json
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\bin\Debug\net6.0\GestionLogistica.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\bin\Debug\net6.0\GestionLogistica.Abstraction.pdb
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\refint\GestionLogistica.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\GestionLogistica.Abstraction.pdb
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Abstraction\obj\Debug\net6.0\ref\GestionLogistica.Abstraction.dll

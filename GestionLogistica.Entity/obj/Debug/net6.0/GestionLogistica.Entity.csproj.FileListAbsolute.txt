@@ -1,0 +1,15 @@
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\bin\Debug\net6.0\GestionLogistica.Entity.deps.json
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\bin\Debug\net6.0\GestionLogistica.Entity.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\bin\Debug\net6.0\GestionLogistica.Entity.pdb
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\bin\Debug\net6.0\GestionLogistica.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\bin\Debug\net6.0\GestionLogistica.Abstraction.pdb
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.csproj.CopyComplete
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\refint\GestionLogistica.Entity.dll
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\GestionLogistica.Entity.pdb
+C:\Users\Jairo Sanabria\source\repos\GestionLogistica\GestionLogistica.Entity\obj\Debug\net6.0\ref\GestionLogistica.Entity.dll
